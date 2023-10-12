@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2A94C2&random=false&width=435&lines=Ol%C3%A1%2C+mundo+%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2A94C2&random=false&width=435&lines=Ol%C3%A1%2C+mundo+%3A)+)](https://git.io/typing-svg)
 
 ## Sobre Mim 📝
 
