@@ -5,25 +5,26 @@
 
 ## Sobre Mim 📝
 
-Apaixonada por criar desde a infância, encontrei meu caminho na interseção entre minha paixão pela criação e meu fascínio pela tecnologia. Essa combinação única me conduziu à faculdade de Análise e Desenvolvimento de Sistemas. No momento, estou totalmente empenhada em aprimorar minhas habilidades, tanto no Front-end quanto no Back-end, com o objetivo de me tornar uma desenvolvedora Full Stack.
+```Apaixonada por criar desde a infância, encontrei meu caminho na interseção entre minha paixão pela criação e meu fascínio pela tecnologia. Essa combinação única me conduziu à faculdade de Análise e Desenvolvimento de Sistemas. No momento, estou totalmente empenhada em aprimorar minhas habilidades, tanto no Front-end quanto no Back-end, com o objetivo de me tornar uma desenvolvedora Full Stack.```
 
 <!--
-## Projetos 💼
+## Projetos 🚀
 
 Aqui estão alguns dos projetos em que estou trabalhando ou trabalhei:
 
-1. [Nome do Projeto 1](link do projeto 1) - Uma breve descrição do projeto.
+1. [Nome do Projeto 1](link do projeto 1) - breve descrição do projeto.
 
-2. [Nome do Projeto 2](link do projeto 2) - Outra breve descrição do projeto.
+2. [Nome do Projeto 2](link do projeto 2) - breve descrição do projeto.
 
 -->
 
 ## Habilidades 💻
 
-### Linguagens: SQL
+### Linguagens: 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![SQL](https://img.shields.io/badge/sql-%23FF0000.svg?style=for-the-badge&logo=https://getlogo.net/sql-projekt-ag-logo-vector-svg/&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -36,7 +37,6 @@ Aqui estão alguns dos projetos em que estou trabalhando ou trabalhei:
 ### IDEs:
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
- Code::Blocks.
   
 ### Sistemas Operacionais: 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -62,10 +62,10 @@ Aqui estão alguns dos projetos em que estou trabalhando ou trabalhei:
 Fique à vontade para entrar em contato comigo através de:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticiasilva04/)
-[![Email](https://img.shields.io/badge/Email-Envie%20um%20email-blue)](mailto:leticiasilva41@yahoo.com)
+[![Email](https://img.shields.io/badge/email-%23720e9e.svg?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:leticiasilva41@yahoo.com)
 
 
-## Vamos 'codificar' o futuro juntos! 🚀
+### Vamos 'codificar' o futuro juntos :)
 
 
 <!--
